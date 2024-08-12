@@ -1,0 +1,41 @@
+div{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-weight: bold;
+}
+img{
+    height: 6%;
+    width: 6%;
+}
+ul{
+    list-style-type:  none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.link-content{
+     display: none;
+     padding-right: 50px;     
+}
+ul li{
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+}
+.cross-icon {
+    font-size: 35px; /* Adjust the size as needed */
+    color: black; /* Adjust the color as needed */
+}
+
+
+
